@@ -5,3 +5,6 @@ Covid Tracker app with Material UI and React Hooks.
 
 [Please click here for the demo](https://covid-19-tracker-992fa.web.app).
 
+Setup:
+
+run npm i && npm start
